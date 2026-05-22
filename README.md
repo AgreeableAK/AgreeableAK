@@ -16,7 +16,7 @@ Final year cybersecurity student with hands-on experience building security tool
 ## 🎓 Education
 
 **B.E. — Computer Science Engineering (IoT & Cybersecurity including Blockchain Tech.)**
-*Sir M. Vesvaraya Institute Of Technology affiliated to Visvesvaraya Technological University · Graduating June 2026*
+*Sir M. Visvesvaraya Institute Of Technology affiliated to Visvesvaraya Technological University · Graduating June 2026*
 
 ---
 
