@@ -1,68 +1,74 @@
 # Hi, I'm Anuj Kumar 👋
 
-**Final Year Student · Aspiring SOC Analyst · ISC2 CC (In Progress)**
+**B.Tech CSE (IoT, Cybersecurity & Blockchain) · Graduating June 2025**
+**Aspiring SOC Analyst | Open to Cybersecurity Internships**
 
-📍 Bengaluru &nbsp;|&nbsp; 📧 [ak003mvit@gmail.com] &nbsp;|&nbsp; 🔗 [LinkedIn Profile URL]
+📍 Bengaluru &nbsp;·&nbsp; 📧 [ak003mvit@gmail.com] &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/anuj-kumar-p)
 
 ---
 
 ## About Me
 
-Cybersecurity student with hands-on experience in vulnerability assessment, network security, and threat analysis. Actively building skills toward an entry-level SOC Analyst or Security Analyst role. Currently pursuing the **ISC2 Certified in Cybersecurity (CC)** certification.
+Final year cybersecurity student with hands-on experience building security tools, vulnerability assessment, and network analysis. Currently pursuing **ISC2 Certified in Cybersecurity (CC)** and exploring local AI with LM Studio. Eager to apply technical skills in a SOC or security analyst internship role.
 
 ---
 
 ## 🎓 Education
 
-**[Degree Name]** — [University Name]
-*Expected Graduation: [Month Year]*
-Relevant coursework: Network Security, Operating Systems, Ethical Hacking, Cryptography
+**B.E. — Computer Science Engineering (IoT & Cybersecurity including Blockchain Tech.)**
+*Sir M. Vesvaraya Institute Of Technology affiliated to Visvesvaraya Technological University · Graduating June 2026*
 
 ---
 
 ## 🛡️ Skills
 
-| Category | Tools / Technologies |
+| Area | Details |
 |---|---|
-| Security | Vulnerability Assessment, SIEM, Log Analysis, Threat Detection |
-| Networking | TCP/IP, Wireshark, Nmap, Firewalls |
-| Languages | Python, Bash |
-| OS | Linux (Kali, Ubuntu), Windows |
-| Platforms | TryHackMe, [Add others] |
+| **Security** | Vulnerability Assessment, CVE/CVSS Analysis, Threat Detection, Network Scanning |
+| **Networking** | TCP/IP, Sockets, Nmap, Banner Grabbing, Port Analysis |
+| **Languages** | Python, Bash |
+| **Tools** | Nmap, Wireshark, Metasploit (Metasploitable 2), LM Studio |
+| **OS** | Linux (Kali, Ubuntu), Windows |
+| **APIs** | NIST NVD API v2 |
 
 ---
 
 ## 🚀 Featured Project
 
 ### [Python Vulnerability Scanner](https://github.com/AgreeableAK/python-vulnerability-scanner)
-A Python-based tool to scan systems for known vulnerabilities and misconfigurations.
-- Automates port scanning and service enumeration
-- Identifies common CVEs and weak configurations
-- Generates structured reports for remediation
+
+A modular, command-line vulnerability scanner that automates the full assessment pipeline.
+
+**What it does:**
+- Host discovery → Port scanning (raw TCP sockets + Nmap) → Banner grabbing → CVE lookup
+- Queries the **NIST National Vulnerability Database (NVD) API v2** for real CVEs per service
+- Scores findings using **CVSS v3.1** (Critical / High / Medium / Low)
+- Tested against **Metasploitable 2** on an isolated Host-Only VirtualBox network
+
+**Tech used:** Python · python-nmap · Sockets · NIST NVD REST API · CVSS scoring
 
 ---
 
 ## 📜 Certifications
 
-- **ISC2 Certified in Cybersecurity (CC)** — In Progress
-- [Add any others: CompTIA, Google, etc.]
+| Certification | Status |
+|---|---|
+| ISC2 Certified in Cybersecurity (CC) | 🔄 In Progress |
+| Google Cybersecurity | 🔄 In Progress |
 
 ---
 
-## 📊 TryHackMe Progress
+## 📊 TryHackMe
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/[YourTHMUsername].png)](https://tryhackme.com/p/[YourTHMUsername])
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/AgreeableAK.png)](https://tryhackme.com/p/AgreeableAK)
 
-> Replace `[YourTHMUsername]` with your TryHackMe username to activate the live badge.
-
----
-
-## 📫 Let's Connect
-
-- **LinkedIn:** [linkedin.com/in/yourprofile]
-- **Email:** [your.email@example.com]
-- **TryHackMe:** [tryhackme.com/p/yourusername]
 
 ---
 
-*Open to SOC Analyst, Junior Security Analyst, and entry-level cybersecurity roles.*
+## 📫 Contact
+
+**Email:** ak003mvit@gmail.com &nbsp;·&nbsp; **LinkedIn:** www.linkedin.com/in/anuj-kumar-p &nbsp;·&nbsp; **TryHackMe:** https://tryhackme.com/p/AgreeableAK
+
+---
+
+*Open to cybersecurity internships and entry-level SOC / Security Analyst roles. Available from July 2025.*
