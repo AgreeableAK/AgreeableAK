@@ -1,6 +1,6 @@
 # Hi, I'm Anuj Kumar 👋
 
-**B.Tech CSE (IoT, Cybersecurity & Blockchain) · Graduating June 2025**
+**B.E. CSE (IoT & Cybersecurity including Blockchain Tech.) · Graduating June 2026**
 **Aspiring SOC Analyst | Open to Cybersecurity Internships**
 
 📍 Bengaluru &nbsp;·&nbsp; 📧 [ak003mvit@gmail.com] &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/anuj-kumar-p)
