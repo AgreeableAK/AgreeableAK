@@ -3,7 +3,7 @@
 **B.E. CSE (IoT & Cybersecurity including Blockchain Tech.) · Graduating June 2026**
 **Aspiring SOC Analyst | Open to Cybersecurity Internships**
 
-📍 Bengaluru &nbsp;·&nbsp; 📧 [ak003mvit@gmail.com] &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/anuj-kumar-p)
+📍 Bengaluru &nbsp;·&nbsp; 📧 [anuj.kumar.phalswal@gmail.com] &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/anuj-kumar-p)
 
 ---
 
@@ -67,7 +67,7 @@ A modular, command-line vulnerability scanner that automates the full assessment
 
 ## 📫 Contact
 
-**Email:** ak003mvit@gmail.com &nbsp;·&nbsp; **LinkedIn:** www.linkedin.com/in/anuj-kumar-p &nbsp;·&nbsp; **TryHackMe:** https://tryhackme.com/p/AgreeableAK
+**Email:** anuj.kumar.phalswal@gmail.com &nbsp;·&nbsp; **LinkedIn:** www.linkedin.com/in/anuj-kumar-p &nbsp;·&nbsp; **TryHackMe:** https://tryhackme.com/p/AgreeableAK
 
 ---
 
