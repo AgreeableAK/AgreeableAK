@@ -60,9 +60,9 @@ A modular, command-line vulnerability scanner that automates the full assessment
 
 ## 📊 TryHackMe
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/AgreeableAK.png)](https://tryhackme.com/p/AgreeableAK)
+## TryHackMe
 
-![tryhackme stats](https://raw.githubusercontent.com/AgreeableAK/AgreeableAK/master/assets/thm_propic.png)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AgreeableAK.png)](https://tryhackme.com/p/AgreeableAK)
 
 
 ---
