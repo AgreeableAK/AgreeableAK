@@ -12,9 +12,9 @@ Currently focused on building practical skills in **SOC operations, security mon
 
 ## 🛡️ Cybersecurity Skills
 
-**Security:** Vulnerability Assessment · CVE Analysis · CVSS v3.1 · Network Scanning · OWASP Top 10 · Incident Response Fundamentals
-
 **SOC:** Alert Triage · Incident Investigation · Phishing Analysis · IOC Identification · Incident Documentation · Escalation Assessment
+
+**Security:** Vulnerability Assessment · CVE Analysis · CVSS v3.1 · Network Scanning · OWASP Top 10 · Incident Response Fundamentals
 
 **Networking:** TCP/IP · Host Discovery · Port Scanning · Raw TCP Sockets · DNS · Nmap · Wireshark
 
