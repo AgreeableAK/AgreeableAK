@@ -1,76 +1,84 @@
 # Hi, I'm Anuj Kumar 👋
 
-**B.E. CSE (IoT & Cybersecurity including Blockchain Tech.) · Graduating June 2026**
-**Aspiring SOC Analyst | Open to Cybersecurity Internships**
+**Cybersecurity Graduate | ISC2 CC | Aspiring SOC / Security Analyst**
 
-📍 Bengaluru &nbsp;·&nbsp; 📧 [anuj.kumar.phalswal@gmail.com] &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/anuj-kumar-p)
+B.E. Computer Science & Engineering (IoT, Cybersecurity & Blockchain) graduate with hands-on experience in vulnerability assessment, network scanning, SOC investigations, and cybersecurity labs.
 
----
+Currently focused on building practical skills in **SOC operations, security monitoring, incident response, and defensive security**.
 
-## About Me
-
-Final year cybersecurity student with hands-on experience building security tools, vulnerability assessment, and network analysis. Currently pursuing **ISC2 Certified in Cybersecurity (CC)** and exploring local AI with LM Studio. Eager to apply technical skills in a SOC or security analyst internship role.
+📍 Bengaluru, India · [LinkedIn](https://linkedin.com/in/anuj-kumar-p) · [TryHackMe](https://tryhackme.com/p/AgreeableAK)
 
 ---
 
-## 🎓 Education
+## 🛡️ Cybersecurity Skills
 
-**B.E. — Computer Science Engineering (IoT & Cybersecurity including Blockchain Tech.)**
-*Sir M. Visvesvaraya Institute Of Technology affiliated to Visvesvaraya Technological University · Graduating June 2026*
+**Security:** Vulnerability Assessment · CVE Analysis · CVSS v3.1 · Network Scanning · OWASP Top 10 · Incident Response Fundamentals
 
----
+**SOC:** Alert Triage · Incident Investigation · Phishing Analysis · IOC Identification · Incident Documentation · Escalation Assessment
 
-## 🛡️ Skills
+**Networking:** TCP/IP · Host Discovery · Port Scanning · Raw TCP Sockets · DNS · Nmap · Wireshark
 
-| Area | Details |
-|---|---|
-| **Security** | Vulnerability Assessment, CVE/CVSS Analysis, Threat Detection, Network Scanning |
-| **Networking** | TCP/IP, Sockets, Nmap, Banner Grabbing, Port Analysis |
-| **Languages** | Python, Bash |
-| **Tools** | Nmap, Wireshark, Metasploit (Metasploitable 2), LM Studio |
-| **OS** | Linux (Kali, Ubuntu), Windows |
-| **APIs** | NIST NVD API v2 |
+**SIEM:** Splunk
+
+**Tools:** Kali Linux · VirtualBox · Metasploitable2 · NIST NVD API v2
+
+**Programming:** Python · Bash · C · Java
+
+**Currently Learning:** Windows Event Logs · Linux Fundamentals · MITRE ATT&CK · Microsoft Sentinel · KQL
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### [SOC Investigation: Introduction to Phishing](https://github.com/AgreeableAK/SOC-Investigations-Simulations)
+
+Splunk-based SOC investigation completed through the TryHackMe SOC Simulator.
+
+- Investigated and triaged phishing alerts using email and firewall telemetry
+- Correlated evidence to identify malicious URLs and affected endpoints
+- Classified alerts as true or false positives
+- Assessed escalation requirements based on investigation evidence
+- Documented IOCs, affected entities, timelines, findings, and remediation recommendations
+
+**Tech:** Splunk · Phishing Analysis · Alert Triage · IOC Analysis · Incident Documentation
 
 ### [Python Vulnerability Scanner](https://github.com/AgreeableAK/python-vulnerability-scanner)
 
-A modular, command-line vulnerability scanner that automates the full assessment pipeline.
+Modular command-line vulnerability assessment tool developed as an individual internship capstone.
 
-**What it does:**
-- Host discovery → Port scanning (raw TCP sockets + Nmap) → Banner grabbing → CVE lookup
-- Queries the **NIST National Vulnerability Database (NVD) API v2** for real CVEs per service
-- Scores findings using **CVSS v3.1** (Critical / High / Medium / Low)
-- Tested against **Metasploitable 2** on an isolated Host-Only VirtualBox network
+- Host discovery and network scanning
+- Port scanning using raw TCP sockets and Nmap
+- Service identification through banner grabbing
+- CVE correlation using the NIST NVD REST API v2
+- CVSS v3.1 vulnerability scoring
+- Structured scan reporting
+- Tested against Metasploitable2 in an isolated VirtualBox Host-Only network
 
-**Tech used:** Python · python-nmap · Sockets · NIST NVD REST API · CVSS scoring
+**Tech:** Python · Nmap · TCP Sockets · NIST NVD API · CVSS v3.1
 
 ---
 
 ## 📜 Certifications
 
-| Certification | Status |
-|---|---|
-| ISC2 Certified in Cybersecurity (CC) | 🔄 In Progress |
-| Google Cybersecurity | 🔄 In Progress |
+- **ISC2 Certified in Cybersecurity (CC)** · July 2026
+- **TryHackMe Cyber Security 101** · July 2026
+- **Google Foundations of Cybersecurity** · May 2025
+- **Google Cloud Fundamentals: Core Infrastructure** · May 2025
 
 ---
 
-## 📊 TryHackMe
+## 🧪 Practical Experience
 
-## TryHackMe
+**Cybersecurity & Ethical Hacking Intern · SuprMentr Technologies Pvt Ltd**
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AgreeableAK.png)](https://tryhackme.com/p/AgreeableAK)
+15-week internship covering cybersecurity fundamentals, networking, Linux/Kali, reconnaissance, vulnerability assessment, web security, wireless security, IDS/IPS, firewalls, incident response, digital forensics, and the Cyber Kill Chain.
 
+**TryHackMe · Cyber Security 101**
 
----
-
-## 📫 Contact
-
-**Email:** anuj.kumar.phalswal@gmail.com &nbsp;·&nbsp; **LinkedIn:** www.linkedin.com/in/anuj-kumar-p &nbsp;·&nbsp; **TryHackMe:** https://tryhackme.com/p/AgreeableAK
+45h 23m of structured cybersecurity learning with approximately 54–56 hands-on labs covering Linux, Windows, networking, web security, web hacking, defensive security, and OWASP Top 10.
 
 ---
 
-*Open to cybersecurity internships and entry-level SOC / Security Analyst roles. Available from July 2025.*
+## 🔗 Connect
+
+[LinkedIn](https://linkedin.com/in/anuj-kumar-p) · [TryHackMe](https://tryhackme.com/p/AgreeableAK) · [Email](mailto:anuj.kumar.phalswal@gmail.com)
